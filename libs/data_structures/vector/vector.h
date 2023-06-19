@@ -1,5 +1,7 @@
-#ifndef VECTORLAB_VECTOR_H
-#define VECTORLAB_VECTOR_H
+#ifndef UNTITLED2_VECTOR_H
+#define UNTITLED2_VECTOR_H
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -53,4 +55,5 @@ int *back(vector *v);
 //возвращает указатель на первый элемент вектора
 int *front(vector *v);
 
-#endif //VECTORLAB_VECTOR_H
+
+#endif //UNTITLED2_VECTOR_H
